@@ -15,6 +15,7 @@
 
 * 🔍 **Detail-Oriented Investigator:** Proven ability to analyze complex data sets, uncover discrepancies, and conduct thorough risk assessments with high accuracy.
 * 🛡️ **Policy & Compliance Focused:** Dedicated to upholding safety standards, mitigating fraud, and adhering strictly to operational guidelines and regulatory protocols.
+* 🔐 **Security & Identity Focus:** Currently expanding technical proficiencies in Identity Management concepts, user verification, and secure access protocols.
 * ♻️ **Problem Solver:** Adept at handling high-volume reviews, making sound autonomous decisions under pressure, and resolving escalated issues efficiently.
 * 🛠️ **Technical & Data-Driven:** Combines programming/data science knowledge with strong research capabilities to investigate trends, track patterns, and streamline verification processes.
 * <p align="left">
