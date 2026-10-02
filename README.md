@@ -5,10 +5,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekraimad027@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ekra-imad&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Detail-Oriented+Analyst;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel;Problem+Solver+%26+Policy+Focused" alt="Typing SVG" />
   </a>
@@ -21,6 +17,10 @@
 * 🛡️ **Policy & Compliance Focused:** Dedicated to upholding safety standards, mitigating fraud, and adhering strictly to operational guidelines and regulatory protocols.
 * ♻️ **Problem Solver:** Adept at handling high-volume reviews, making sound autonomous decisions under pressure, and resolving escalated issues efficiently.
 * 🛠️ **Technical & Data-Driven:** Combines programming/data science knowledge with strong research capabilities to investigate trends, track patterns, and streamline verification processes.
+* <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ekra-imad&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
+
 
 ---
 
