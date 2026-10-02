@@ -6,6 +6,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Detail-Oriented+Investigator;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel;Problem+Solver+%26+Policy+Focused" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ##  About Me
 
 * 🔍 **Detail-Oriented Investigator:** Proven ability to analyze complex data sets, uncover discrepancies, and conduct thorough risk assessments with high accuracy.
