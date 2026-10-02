@@ -36,9 +36,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sql,excel,git,vscode,html,css" alt="Tech Stack Icons" />
-</p>
 ---
 
 ## 📊 GitHub Activity & Stats
