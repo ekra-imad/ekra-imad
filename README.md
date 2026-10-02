@@ -1,5 +1,6 @@
 # Hi there, I'm Ekra! ✨
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ekra-imad.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekra-imad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekraimad027@gmail.com)
 
