@@ -18,7 +18,8 @@
 * 🔐 **Security & Identity Focus:** Currently expanding technical proficiencies in Identity Management concepts, user verification, and secure access protocols.
 * ♻️ **Problem Solver:** Adept at handling high-volume reviews, making sound autonomous decisions under pressure, and resolving escalated issues efficiently.
 * 🛠️ **Technical & Data-Driven:** Combines programming/data science knowledge with strong research capabilities to investigate trends, track patterns, and streamline verification processes.
-* <p align="left">
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ekra-imad&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
 
